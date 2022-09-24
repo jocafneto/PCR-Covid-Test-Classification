@@ -1,26 +1,26 @@
 # PCR-Covid-Test-Classification
 
-**Empresa:**
+## **Empresa:**
 
 **PCR Covid Tester**
 
 
-**Qual o problema de negócio?**
+## **Qual o problema de negócio?**
 
 O desafio consiste na construção de um modelo de aprendizado de máquina para realizar a discriminação dos dados espectrais de COVID-19 em relação ao grupo controle (casos positivos e negativos).
 
 
-**Sobre a Empresa?**
+## **Sobre a Empresa?**
 
 A PCR Covid Tester é uma empresa de biotecnologia que utiliza Inteligência Artificial para predizer se um funcionário de uma outra empresa está com Covid ou não, através de amostras extraídas dentro da própria empresa de origem usando técnica de **Espectroscopia do Infravermelho Próximo (NIR)**.
 
 
-**Objetivo do desafio?**
+## **Objetivo do desafio?**
 
 Ao final, devem ser apresentados os resultados obtidos explicando os critérios de decisão para a escolha do melhor modelo.
 
 
-**Sobre os Dados:**
+## **Sobre os Dados:**
 
 A **espectroscopia do infravermelho próximo (NIR)** é uma técnica experimental que se baseia na utilização da luz para estudar a composição, a estrutura e as propriedades da matéria.
 De forma prática, é emitido diversos feixes de luz no material, utilizando diversos
@@ -35,7 +35,7 @@ para o **teste RT-PCR**, e a classe **“Covid”**, para as amostras que obtive
 no teste.
 
 
-**Que tipos de perguntas devemos responder?**
+## **Que tipos de perguntas devemos responder?**
 
 **1)** Quais são as amostras que tiveram **resultado positivo** para o **teste RT-PCR**?
 
